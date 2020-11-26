@@ -1,6 +1,6 @@
 language: java
 jdk:
- - openjdk8
+ - openjdk11
 addons:
   sonarcloud:
     organization: "unimibsoftengcourse2021" # the key of the org you chose at step #3
